@@ -28,7 +28,7 @@ h5{
 }
 
 .navbar{
-    background-color: rgb(62, 62, 131);        
+    background-color:rgb(63, 87, 135);        
     color: white;
     font-size: 25px;
     font-family: serif; 
@@ -47,13 +47,6 @@ h5{
 
 }
 
-.card{
-  padding: 2%;
-  background-color: rgba(50, 55, 83, 0.979);
-  text-align: left;
-  text-emphasis-color: black;
-
-}
 
 .media{
    padding: 2%;
