@@ -20,6 +20,13 @@ h5{
     width:  100%;
 }
 
+.img_weather{
+
+    width: 25%;
+    padding: 2%;
+   
+}
+
 .navbar{
     background-color: rgb(62, 62, 131);        
     color: white;
@@ -38,7 +45,28 @@ h5{
  border: 10px;
  font-size: 1.75em;
 
+}
 
+.card{
+  padding: 2%;
+  background-color: rgba(50, 55, 83, 0.979);
+  text-align: left;
+  text-emphasis-color: black;
 
+}
+
+.media{
+   padding: 2%;
+   align-content: center;
+}
+
+.contact_info{
+    display: block;
+    padding-top: 5%;
+    padding: 3px;
+    background-color: rgb(63, 87, 135);
+    text-emphasis-color: black;
+    text-align: center;
+    color:white;
 
 }
