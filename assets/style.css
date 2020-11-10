@@ -36,7 +36,7 @@ h5{
 }
 
 .container{
-
+ 
  background-color: rgba(50, 55, 83, 0.979);
  width: 25%;
  margin: 0 auto;
@@ -54,6 +54,7 @@ h5{
 }
 
 .contact_info{
+    
     display: block;
     padding-top: 5%;
     padding: 3px;
