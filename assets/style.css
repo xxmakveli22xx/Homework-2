@@ -31,7 +31,7 @@ h5{
     background-color:rgb(63, 87, 135);        
     color: white;
     font-size: 25px;
-    font-family: serif; 
+    font-family: Arial, Helvetica, sans-serif;
     text-emphasis-color: whitesmoke ;
 }
 
@@ -41,9 +41,10 @@ h5{
  width: 25%;
  margin: 0 auto;
  margin-top: 80px;
- color: black;  
+ color:white;  
  border: 10px;
  font-size: 1.75em;
+ text-emphasis: black;
 
 }
 
@@ -54,13 +55,13 @@ h5{
 }
 
 .contact_info{
-    
+   
     display: block;
-    padding-top: 5%;
     padding: 3px;
     background-color: rgb(63, 87, 135);
     text-emphasis-color: black;
     text-align: center;
     color:white;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
